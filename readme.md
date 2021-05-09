@@ -1,13 +1,13 @@
 before running the server, install using pip:
 
-pip install torch \n
-pip install torchvision \n
-pip install PIL \n
-pip install flask \n
+pip install torch <br />
+pip install torchvision <br />
+pip install PIL <br />
+pip install flask <br />
 
 (if you are worried about package conflicts, you can create a virtual env first
-before running the installs: \n
-python -m venv env \n
+before running the installs: <br />
+python -m venv env <br />
 source ./env/bin/activate)
 
 run the server from the terminal using: python app_whatpic.py
